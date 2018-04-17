@@ -9,7 +9,7 @@ int main()
 
     if( idade >= 18)
     {
-        printf("Parabens, voce pode fapar a vontade\n");
+        printf("Parabens, voce pode fapar a vontade(se for fapar com mais alguem use camisinha)\n");
     }
     else
     {
